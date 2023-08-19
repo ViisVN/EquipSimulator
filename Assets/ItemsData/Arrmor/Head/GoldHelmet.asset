@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: be313add524c80943b2be222ea90030c, type: 3}
+  m_Name: GoldHelmet
+  m_EditorClassIdentifier: 
+  name: Gold  Helmet
+  description: Best Helmet
+  sprite: {fileID: 1121806962, guid: 44f1f86bf49661e4a9917189da21ebf5, type: 3}
+  Heatlh: 125
+  Str: 2
+  Def: 4
+  Spd: 0
+  Type: 0
+  set: 2

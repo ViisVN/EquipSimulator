@@ -1,0 +1,6879 @@
+fileFormatVersion: 2
+guid: 44f1f86bf49661e4a9917189da21ebf5
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Head-Body-Leg_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 653
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8453d7adc588a164690c9c35141b7373
+      internalID: -1435541493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_1
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 654
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcf21cc6b9572ca45882735f88515c5c
+      internalID: -1764398319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_2
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 653
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a579838cd7d2fa49a9d260be1d243c5
+      internalID: -1319743035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_3
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 654
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09b429f347f8978408e36dd80d9d72a9
+      internalID: 1273515412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_4
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 654
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d44045d5adfdcf544bdee53394cf9e00
+      internalID: 556975630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_5
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 654
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd3028c0c27a87b469a28b8cff072b6c
+      internalID: 1420912993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_6
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 652
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4e94369fe76bb64a9eb8dad153cbaa9
+      internalID: -721967358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_7
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 653
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99f762899aa546b40badeb3bf8df91bf
+      internalID: 629918547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_8
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 652
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b7bc71ae7d560147a78185e16950893
+      internalID: 2134322047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_9
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 652
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c79556b152055845a3aab64a6a07db2
+      internalID: 1229937224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_10
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 652
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f62f46c4705a26048aed3fd775bf1b61
+      internalID: 1367919387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_11
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 652
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a875dccfa9469f46bc4e39eb84dfbac
+      internalID: -1412071113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_12
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 655
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47aedcc29c2737041a8b3cc0bd2803e0
+      internalID: 723647379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_13
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 652
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ad5a13560ea0194e9dcc663ff283499
+      internalID: -1074909361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_14
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 651
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb24fc5805dec324e83dd089ebdc2cd9
+      internalID: -746289010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_15
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 651
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc25f4886f8f90a4e810f02664583dbf
+      internalID: -953639243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_16
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 628
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b637cd93f7f178d4683d6ee67db2059d
+      internalID: -1171630327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_17
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 628
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dddf6d70e9d4a904f8927b78e8227f1b
+      internalID: -284217366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_18
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 628
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c160c35e9fe1c04b98d1a0497818038
+      internalID: -628769318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_19
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 628
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bec4492df7250b448c33904cf04414e
+      internalID: 1886056285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_20
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 628
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dc224a5d5ef6dc49b35e8dd10e290d8
+      internalID: -815227430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_21
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 628
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a45fbf2a0cfd91459b97a75f02ff6d1
+      internalID: -953692488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_22
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 628
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3b04d2a134937040b8238e0c9e705fb
+      internalID: -1807954754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_23
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 628
+        width: 72
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e637b47e3536d84e90a2b8b705e62b0
+      internalID: -907035730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_24
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 628
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77993803a14ddb0409829b294ff91f90
+      internalID: 662515613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_25
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 627
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1f8a5d3883fbbb459a50464f17b7c4a
+      internalID: 561736797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_26
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 629
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21d344d78bc0ef64ba5c5bf314f9001d
+      internalID: 756559180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_27
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 630
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e62289ebbcb7d7e43bde035328a8e3c3
+      internalID: 1347896960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_28
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 629
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aa766d3c8e09d3438a1f4a9cfe2d28e
+      internalID: 460595511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_29
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 629
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a959d75f773bee549a574c02b3289777
+      internalID: 1494206355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 605
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 674fa58b380140d4689e5a31ddcc18ca
+      internalID: -1767245426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_31
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 603
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e88b284c3412da48839f48df1162df1
+      internalID: -2102146526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_32
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 603
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a30287000c692fe4fbe1ef6e65ba7f9a
+      internalID: -846445721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_33
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 603
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47e97f8fa876992419bb69a7e1a14d88
+      internalID: 1264010181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_34
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 603
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b68bbf3efc779a429136b556ca31d1d
+      internalID: 1529732215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_35
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 603
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 139f35dc71048674c83348979cfdd630
+      internalID: 1804083295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_36
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 603
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5783aeef233143541b3ce90a6c3298b6
+      internalID: -955811688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_37
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 603
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9f8881c55ff5cf438ff6de9c5f36968
+      internalID: -21809294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_38
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 603
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f7d1d4b1cf0e3a4c8a1647e42c94170
+      internalID: 1840810574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_39
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 603
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c87a75df7707ba84aae0bababc50bdfe
+      internalID: 337146826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_40
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 604
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fa20e260df8c58489099d67ac7b1359
+      internalID: 173299260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_41
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 604
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9139388448c04024a977a131b8df19c5
+      internalID: 564410720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_42
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 605
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7096f1dabaa65b40a29bf2452d8d5b0
+      internalID: -1882145693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_43
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 605
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 192a89d6eb21c404fa6230a77e511c73
+      internalID: 1735109871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_44
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 604
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 116eb9fb793855949a413e63117310d4
+      internalID: 606236542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_45
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 604
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98988ea0fa0302342b5de7ff55142543
+      internalID: -1103694987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_46
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 581
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a1afe93a0ce44046ae23fee7d3137d7
+      internalID: -485061925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_47
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 581
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4c403502db8acb449ced7b3eda977ec
+      internalID: -667267241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_48
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 580
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 392abf64ad2178249a8fd8cf465a2d98
+      internalID: -1462312572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_49
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 579
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da8962dee19b60c4b88f4c8d3dc8ecd8
+      internalID: -286588109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_50
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 555
+        width: 22
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6963560c65faa94887d86dcfcec02dd
+      internalID: 53007543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_51
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 582
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b488cf3234736643bb0e4ff123c615a
+      internalID: -938920693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_52
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 582
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1da32049bc1500340a04f3f993a8d987
+      internalID: 262921055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_53
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 582
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8924363c03bf9a419afb5d26d330433
+      internalID: 209385830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_54
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 582
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6d8782706aa1f749a60f74ce44fe58d
+      internalID: -119334439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_55
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 583
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60dedc6dc3b5d5b429adb4980e4ca088
+      internalID: 809009048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_56
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 581
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26c30170a23da724781811f7e76b0b6d
+      internalID: -1825911595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_57
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 581
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 969edcac796cdb24285957fe738db7a8
+      internalID: 606803151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_58
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 581
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35db419da4ba94b4bba2435e00ffe308
+      internalID: -1609971334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_59
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 581
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dab42e92bcdd9574ba5f5df4cab43cfe
+      internalID: -336327087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_60
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 581
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b68fb69b113e7db4db9e24773a244acd
+      internalID: 922565052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_61
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 581
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52a55fd92a9682347948efd4bd54fff0
+      internalID: 1273640427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_62
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 556
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d358861b74e6c4343bc2f5944d26bb0c
+      internalID: -183729627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_63
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 556
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e8df057d465bd4439a860ca0e16d7d6
+      internalID: -432714652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_64
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 556
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abce7cce3f2e1c84ca175f345c87cfa1
+      internalID: -806701976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_65
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 556
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ae711dc59cf8844e95d81612ef3465a
+      internalID: 469964998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_66
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 557
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4498c231bfd62cc4ebc30911b268a161
+      internalID: 563802098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_67
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 557
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9936e18dbd080d142a8e118cf49b6ab2
+      internalID: 992199195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_68
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 557
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f76440630d68df499f9cb7718f973e2
+      internalID: 1014609469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_69
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 557
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8079da944d1adf4f924a7cedcfffcee
+      internalID: 172519568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_70
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 556
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1e9fc58938a5694b83b287af1ab19df
+      internalID: 2072748615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_71
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 557
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90207434a12b4964f92a5756b404c9af
+      internalID: 73058887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_72
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 557
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ea9622d02d947c40a9ee4bf8957120a
+      internalID: -1748208340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_73
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 557
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b25bc2791660024c8d2f039b320ab3d
+      internalID: -1255803633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_74
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 557
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 734d27f0b058bbb4193c60a9033ae4ea
+      internalID: 275301165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_75
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 557
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 784fe07f4f74c0043a0f78f92203d19b
+      internalID: -181104926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_76
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 555
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdd2e549ca40cda4880ae4e6a0124218
+      internalID: -1457616459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_77
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 531
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfab9c62e28517642b87ed85409ad900
+      internalID: 1085353260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_78
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 531
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf39fc87ce2e20a4fb79ba04556f853e
+      internalID: 250679997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_79
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 533
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dc672d303c8b484b9fd3ababe2d6544
+      internalID: 1913424862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_80
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 533
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3de06d774e8c214419faad8ec5e86bf2
+      internalID: -530849230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_81
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 533
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f56c483b58af9b4a831cc243d31a246
+      internalID: -313659641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_82
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 533
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37d4ef80541dcc94aa9d03835091e1d7
+      internalID: -1948643771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_83
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 533
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff4964d5a9601954880a2e4da7eaaa7d
+      internalID: 636654275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_84
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 535
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0fcebf87a4d6ce43a21cb8a099a0d4e
+      internalID: 238892150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_85
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 535
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1ba0f67d0057a3488ea7a138e4270d9
+      internalID: -895515191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_86
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 532
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c64dec8e786a43a4985cc57626231a02
+      internalID: -1797948580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_87
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 534
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7adaae68d8908e44ac733e5b0fe5958
+      internalID: 2037017092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_88
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 535
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ea1df9194dcbff43b81e937d22b6190
+      internalID: 1871239621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_89
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 531
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82a410cfd0854e145944121b5d08153c
+      internalID: 564429201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_90
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 531
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a10beed10ad0c64c892ff0294164827
+      internalID: 768996650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_91
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 531
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5446e0078258f547a0daab0dc54d69a
+      internalID: 47582026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_92
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 507
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d76644ad8f6dfb542a33c7adadddd982
+      internalID: -1369517799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_93
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 508
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a09194246763a784ea3005154499dc25
+      internalID: -1973297914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_94
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 507
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e30f52664c9b60d438f8079fc8998409
+      internalID: 953440169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_95
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 508
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3722ceb3cd6612b4e9a3099c23e18fd0
+      internalID: 1018281839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_96
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 507
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 043eaa9770ac72f4895064069984dbcf
+      internalID: -1219095874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_97
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 507
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fab454782ec99a74ea32898182f98420
+      internalID: -1630955793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_98
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 507
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f08eceb39ff8c42459848783d66c8301
+      internalID: -1362380714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_99
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 510
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7529bf6337807945ba297b3fdc22e40
+      internalID: -315389871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_100
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 510
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27c7c1e8c22fea14fa3de3aac35531a7
+      internalID: 719971249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_101
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 508
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94c7e8d13c85d6a4db187406a16ad517
+      internalID: 297330557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_102
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 508
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36de41537d33e354ca5daa4672bec352
+      internalID: -2077403989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_103
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 508
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5289ae280b3673d4aa56beef2b0dbef6
+      internalID: 21641849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_104
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 507
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a555c134d2bd000428095a6dc9266799
+      internalID: -1586500639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_105
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 508
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 616d04f910203674ea3fa20cc3735784
+      internalID: 1548303653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_106
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 509
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cdf5d4e9f25c404493c26d1721cb58b
+      internalID: -331315788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_107
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 507
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c03d0de88cee640499c19bfa6040e0b1
+      internalID: -997013569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_108
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 483
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82e820e5855fdef40932899d0995549b
+      internalID: 922628368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_109
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 485
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 850940b89ad49604cabd2f978b5967bd
+      internalID: 1389616581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_110
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 484
+        width: 95
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02923b9636a093344ac0a65c4e1fdf71
+      internalID: 674172291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_111
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 485
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd4d6829bc43d4b49994970ee49b5b72
+      internalID: 2092535924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_112
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 485
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5652339c0d50754b84d1496bc23b411
+      internalID: -968101534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_113
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 484
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 320fdd31aa9128a4d957259bb58346bb
+      internalID: 1032254047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_114
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 484
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41d86a87a67163d4aa9e3b5fc9fc8a7d
+      internalID: -1835782512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_115
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 485
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cb1b80b084868341aa724b4ae909e59
+      internalID: 438866488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_116
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 484
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c98a1e6ffcd4e0f4683e2db4dd01c38f
+      internalID: -2014084976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_117
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 483
+        width: 47
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e848b49b9df28e849bffc7a0dfb3f17e
+      internalID: 2119664047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_118
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 485
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fbf2ff7889a1d147b5b785bf5ee08ca
+      internalID: 1315346617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_119
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 485
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62e1d495a95b0ed40a181e7c9df0f5ea
+      internalID: -1736489555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_120
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 461
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90c06b8b2ab2dfd4ab658bd357e49b11
+      internalID: 1935619560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_121
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 460
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fafb2278f282be2428780ecce1536a2f
+      internalID: -539061032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_122
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 460
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74eb55d9a5763774d8d44bf658ac1641
+      internalID: -904975419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_123
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 459
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51998d741e07edd46a22cfba4a682b0e
+      internalID: -2023421766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_124
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 461
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 768e3309f93bcb94380d52c0f92b5dc2
+      internalID: -1836021900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_125
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 461
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 616d548fdf1fd2d4385cf9bf30e59817
+      internalID: -687957321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_126
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 461
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 480a6ad509e30874cb8cd18f5570738b
+      internalID: 509686045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_127
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 461
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53e08f21b3fc98340b4e3cb36d75b133
+      internalID: -806480804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_128
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 462
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad862051e51e6474eac22a8d278d8fc7
+      internalID: -1297862472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_129
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 461
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c12abcb5bad7a8646a18118d6b989027
+      internalID: 385052207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_130
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 463
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b26df5f5e92d85240b8ec33340498eae
+      internalID: -151993235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_131
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 463
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dbe01d76ff7f0d408f967699793c640
+      internalID: 298109179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_132
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 463
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af4d3187de0fa144faf5febb373ad4cf
+      internalID: -1626689345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_133
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 459
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2756e06f455ef764482ac726d29f10c2
+      internalID: -1003802185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_134
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 461
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b05e5f7960f94f144a50cf55156f07be
+      internalID: -916340020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_135
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 461
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1365027338f8c1142a6cb0bc722d5851
+      internalID: 2037213395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_136
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 436
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f0c908f6cde6d64a9870222fcc6647d
+      internalID: 1921958830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_137
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 436
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebcfe70e2c77d1c459c559adc4ec9d7b
+      internalID: 1668253249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_138
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 436
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4709928727c6054b899c84a1efc247f
+      internalID: -594780616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_139
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 436
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2888a17bced1a4f49b2cdf10c79da8e5
+      internalID: -809334937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_140
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 436
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ee105d2cc1d79b4a9bc7c78260f4bd9
+      internalID: 1485278774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_141
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 436
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e872a35a9fdc404cbfefae11124b1c1
+      internalID: 624561484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_142
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 436
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29d4c75caded2fb4b9b1db2d316b2ed6
+      internalID: 869999100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_143
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 436
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 893f9845bb6d0d14093f1111f1d6d19d
+      internalID: -506136236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_144
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 437
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9312a622d0c19e4409f9e93ff8525706
+      internalID: 63100535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_145
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 436
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7701f7bd5aae070458723d8ee30f2a69
+      internalID: 927499529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_146
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 435
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df003bf9576f7df479f2d008e2eeb586
+      internalID: 1531290625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_147
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 436
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ec83ce64f8f1a64b921581965d186b7
+      internalID: -1790112024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_148
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 436
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5d135ddd9fd3c241abb2a90a4b06f22
+      internalID: -611840976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_149
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 436
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cd91cf441a9c6d498c81a69857ec002
+      internalID: 289997380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_150
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 436
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86e6a8b813828fe418e3ec7fdd66859a
+      internalID: -1624309495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_151
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 438
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49fb43f4698b1a14a9b7fe1062dd5c79
+      internalID: -553176938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_152
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 412
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb317c4efb6b8e247aa3daf560db8a6c
+      internalID: -800640778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_153
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 415
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6c7881a63277674ca8400f1cb4285be
+      internalID: 1399972901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_154
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 415
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dccc48c091d710041a05b0e1a831b57f
+      internalID: 119163735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_155
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 415
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20f027d3fe7946147b9f5cdaa1777826
+      internalID: 1492823700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_156
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 415
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7357065290ef9bd4397e100c7abea9d1
+      internalID: 388060946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_157
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 414
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d9a9cb222e91434b9d542db50ac9a0e
+      internalID: 185416244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_158
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 415
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8125eb02e04d4d545973f6b318bd1c96
+      internalID: -1251387346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_159
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 414
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e38ac0dc20727848827d1e5da32d09e
+      internalID: -209106711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_160
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 415
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8a65ef5f62465f4fa851f81ad691fdc
+      internalID: -1747416403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_161
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 415
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab6ad6290455eb147a50afc0465c6d54
+      internalID: -2087100499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_162
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 415
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b0941565c8ebe842969b1cadd76832f
+      internalID: -419275218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_163
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 415
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c562878fba07b594a9cacce8006164b0
+      internalID: -1341394739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_164
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 415
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65d2dafff7e57fb4b865c0db5e962cca
+      internalID: -891307125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_165
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 416
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e059711c0c5a00245814ef3469c92654
+      internalID: 1705195049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_166
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 415
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcca4157cdd78094887fa28576851379
+      internalID: 2099348354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_167
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 415
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24951e0a3e3927a488c6c6389a03db89
+      internalID: 722832288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_168
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 392
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17b8e7451f01bbf48b0e3b8304c88d60
+      internalID: 1903994836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_169
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 391
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c52dff1fb7d950147a805c421a3a1a05
+      internalID: -1488614915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_170
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 391
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 153f0ace74127c546a9aa3f98d7bfc06
+      internalID: 117231356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_171
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 390
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8a432a71677a5945bb3fd5f55b879b0
+      internalID: 2059140758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_172
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 392
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebd18080017df2f41bcd311727497b7f
+      internalID: -644909135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_173
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 391
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92a8a4e82fff9604f837c8bb7d8de04d
+      internalID: -2053974413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_174
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 391
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddada226d0114c64cb5bcc99e5819735
+      internalID: -192481050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_175
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 392
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44159d888d9eecb4fb578bc61f05a978
+      internalID: -2072466346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_176
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 391
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41f8ba0f153df194ca20f2a83dc198cc
+      internalID: -1739634934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_177
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 391
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9a97a10b51a08442823160f61e288ea
+      internalID: 159826467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_178
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 391
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 640529f59e603134fba5ca78f6e0d896
+      internalID: 897358683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_179
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 391
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6beb886f8c63d564c8c1f7305605238b
+      internalID: 299950639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_180
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 391
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab502026336697a4199c439d78f7f609
+      internalID: -1379601621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_181
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 391
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5741e722afad8824c98d6c3f4b262d40
+      internalID: -1472034365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_182
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 391
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acc3dcebfd74c144185efb7d7b8be97b
+      internalID: -1832128465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_183
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 391
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bdd647f027314d47ba1a8ff721cba23
+      internalID: 1868702617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_184
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 368
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 538f327607be0d6499c9aa294cef60fb
+      internalID: -437160576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_185
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 367
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d35f44d11f5c6a84ca253d07e68ef0b4
+      internalID: 599652090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_186
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 367
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cea1f91d0b69464429e0e70f98885048
+      internalID: 714155135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_187
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 367
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fac52aa01284b374aa17d5403ed41e65
+      internalID: -576971309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_188
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 367
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3314016924f45464093dcc3edc10a898
+      internalID: -129452032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_189
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 368
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e7deeec83f919b4d8c4b4d2cf8ef21e
+      internalID: 858433931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_190
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 367
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53f971cb73bbf4b47838cf8ff1bce170
+      internalID: 847829162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_191
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 367
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e2c1954b72554e4085d293cf19c7fc3
+      internalID: 1754999007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_192
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 292
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0fde64c6541e2d48b64d17d4ec61d73
+      internalID: -702070357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_193
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 292
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31a0961db57a6e949b35f86178cd1cde
+      internalID: 1486917062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_194
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 292
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50909a636a35ec94fbd52ad309f21c5f
+      internalID: -1700235612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_195
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 292
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ca16d7ecafb8ff4b82c2a6530f88af7
+      internalID: -1295746434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_196
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 292
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3252c5d568b2d5b409a925c39fd75765
+      internalID: -1008180672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_197
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 291
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e998b19a3b6d0754980efec0f6051b0a
+      internalID: 46504631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_198
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 291
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5c81f290b7fd1a43acb1e49cd6c42d5
+      internalID: -972541211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_199
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 292
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddaf7028ca065994c87d758d3a68c9db
+      internalID: 1882577242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_200
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 294
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c581c3340bf8f146ac3742e0bc1d97a
+      internalID: -55422620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_201
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 292
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d575955b8a624d644a63ddbee4b4b9b5
+      internalID: -443099669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_202
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 291
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6513439bcd8bab3449de476afdceba29
+      internalID: -1637441687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_203
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 292
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1806fb2e21713b40996ef04a2af670d
+      internalID: -769805562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_204
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 291
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcf6eb1cb576a8e478ba3eb91bded2c4
+      internalID: -1360937706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_205
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 291
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69f80f006ed3b094894ffa509808c935
+      internalID: 911213065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_206
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 293
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad75d781df88aaf4781ed9907f8c7dc7
+      internalID: -1429808861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_207
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 295
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce2d5283419840845a309ed9bd41cd8c
+      internalID: 1159080914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_208
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 274
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe3a47b3d045d2d4ca24785d3e714eb6
+      internalID: 1614878417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_209
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 271
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9625f914bb2054c4e8abb2c7630d71a9
+      internalID: 116991758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_210
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 271
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fb6825d7a9b9c945a23e065b0936753
+      internalID: -873823692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_211
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 272
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41a976bb99184694fb64694c37b53947
+      internalID: -1906176131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_212
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 272
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fa75956ca7722049b8025db9669eeaa
+      internalID: -1844455394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_213
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 273
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b35c04b39ffc51046b987a4b1722bc30
+      internalID: -979787927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_214
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 272
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d1f0ee53839d5641b9786fb6ed86a60
+      internalID: -1703152316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_215
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 271
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d34837e5597703644b739e7c2ee74622
+      internalID: 560303338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_216
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 272
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed685ac89fffd9a4eacf147e7070f1de
+      internalID: -705652866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_217
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 272
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42328ca1580abbc4e8df4f3bf8b43885
+      internalID: 311036152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_218
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 271
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e35c7b662e03944a86ef924c6e0dc5d
+      internalID: -1697756175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_219
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 272
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e789763b3e6a6c40aaf852a4ba19033
+      internalID: 325800968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_220
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 271
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a87d06c9fdfc8044eae79110205c1e5e
+      internalID: 180398249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_221
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 271
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f24271c231109bb4e910a668de484355
+      internalID: -1468134085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_222
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 270
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f223f0226a0dfe54f9641a8695468b62
+      internalID: 245512287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_223
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 272
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18a61dad9e1b4744ea001b9762e27f15
+      internalID: 331823060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_224
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 249
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a046a259af626a43a9f6126a0a3ccc9
+      internalID: 1000288233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_225
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 248
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a83e083d752bd5f459c6bfb4186d9cef
+      internalID: 1217822197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_226
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 248
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58f585d94ab3e9a409d9062964817ba0
+      internalID: -1147076037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_227
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 248
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25b705d293cee984c9fd9738e87558c0
+      internalID: -939461663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_228
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 172
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ec6ce59029b86549b859da40bc93d5d
+      internalID: -2092279136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_229
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 172
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01164ec6ed727fb40ae27697cd86a264
+      internalID: -488118334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_230
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 176
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba5a56dffb4c64945b55eeb07ff279f5
+      internalID: 1275620566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_231
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 172
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d717ffb58cf2eae409197b0cdaa1b414
+      internalID: -1943621308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_232
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 172
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f07f55fc5595fcb459e17fbce1ba4d02
+      internalID: 858710417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_233
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 172
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 032e84d729084ba448ea279044a3e24a
+      internalID: -1490948190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_234
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 172
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42eeb136091b063469236b4f3fd89158
+      internalID: -1245662071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_235
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 172
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22975c4d81111ae4c8b70e14f22e05ce
+      internalID: 1237938193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_236
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 175
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e3df1124b8c51546a1b937942a40fe1
+      internalID: 118987481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_237
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 175
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 819f3a74bd2c65d4dab33c3f59ed4887
+      internalID: -352092105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_238
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 103
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0090c1623698e6e40b77d8e94eee4975
+      internalID: 352604591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_239
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 103
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01890e2f7a240d144b6217031cff0c9f
+      internalID: 1121806962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_240
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 102
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7da51766686e04468b48e3039d7ae13
+      internalID: -1427086649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_241
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 103
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7ce17122588d5342af3506474fae492
+      internalID: -1804570733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_242
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 99
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 748a22f3c6cf56449a2a896db17d5836
+      internalID: -1196213343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_243
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 101
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 098226b5a4427fa4298d972251aff2c1
+      internalID: 1226829525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_244
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 99
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a02e327cff229340bd232f7e85806f0
+      internalID: 226410415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_245
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 99
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4de330d6f924d945a619f652382d5ef
+      internalID: -2081102708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_246
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 103
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cb6ac5011f9330469e379e522c5bbe3
+      internalID: 1736953254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_247
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 102
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 169ab6721e1cfcd4b90aeac22a6e275d
+      internalID: -568011015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_248
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 100
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0d01be285528de4097b12a647b0d2b5
+      internalID: -953565600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_249
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 107
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da978b7fa1829ad4280a2a44ef3a8a54
+      internalID: 559435983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_250
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 105
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceb86dd646b6dec4384a63710f948e30
+      internalID: -775410545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_251
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 101
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6b8ee5d32eff0f4b998374e28ecc017
+      internalID: -70717159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_252
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 101
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1901cbf2e6608b4aa720921de326f08
+      internalID: -1346056198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_253
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 102
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ecbfb6006e13c34db472ed11f0ddd07
+      internalID: 988133182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_254
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 104
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1e60101bc5458d44b9e625507e5e09f
+      internalID: 565788588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_255
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 101
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 266ff1bf9bca9b54a99fe8431bb62b6d
+      internalID: -1382278808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_256
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 79
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fab1c375cba1a543a77944ed35530d1
+      internalID: -1776563829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_257
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 76
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f0fdca51381657448e0ad8714b63a83
+      internalID: 386447459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_258
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 80
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df56ee5e290932a47ae6860a115b3b11
+      internalID: 205876057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_259
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 78
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 270e05df4261ffa47bcdc8d9589467f7
+      internalID: 993380648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_260
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 81
+        width: 24
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73f681de4b7e61d4bb816a0b54fedf6d
+      internalID: -1302107283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_261
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 81
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dff450512369854388734a7844b7e38
+      internalID: 1607828869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_262
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 78
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a8b9288e7c0fc346b6d21a3f615f868
+      internalID: -475921337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_263
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 81
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4040f623e9d00434da10b6f36af0e410
+      internalID: 328122853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_264
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 78
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ffa7f969c818604e81df61169dda081
+      internalID: -1225947556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_265
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 76
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b216e69dd87ce1e4eb314b7196be8fd7
+      internalID: -1010318755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_266
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 75
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f5eca99b126cee4da42d6722f035241
+      internalID: -493716355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_267
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 76
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3b6e130ae0a8f548a9eec12ebc09b2a
+      internalID: -968869427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_268
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 80
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79dfa6a85a3b41a488619dde503b62bd
+      internalID: 1057016739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_269
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 75
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad67758550ff8f642b428889893d22b5
+      internalID: 709604189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_270
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 75
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dcb7762ce823c64788b67b6bddb76f6
+      internalID: -596726025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_271
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 76
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: affaaba464ca56040bd9f28d2b0f898f
+      internalID: 1088554358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_272
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 54
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa7021124025d464da5da9844ab9f42c
+      internalID: -1486906941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_273
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 54
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 388d83228523a534a94def30ba2aea9e
+      internalID: 1940902270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_274
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 53
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b232f3e543b9474e9c2bea3af39d6bf
+      internalID: -1166184078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_275
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 55
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b0d2ec415345e14283bda4e893cdaad
+      internalID: -581690245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_276
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 55
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccffa05f06a50b248a02f8b3e7ab1d68
+      internalID: 1160064554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_277
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 55
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac879d56ab6c85a4eae0f9a09737c84b
+      internalID: -1140832313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_278
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 55
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f439418c9996a748882d3311cb2d0f0
+      internalID: -1482267192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_279
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 55
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe8ceeb3f2ee1804c9bd17ef15de12a0
+      internalID: 19536337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_280
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 55
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 138de75103285fa4cb09a67e87852668
+      internalID: -552301143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_281
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 51
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f25eaeea70453764e97679d9030e24ae
+      internalID: -1917359950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_282
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 55
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c3376ca717f43346a106531ebd7c82a
+      internalID: 1601863511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_283
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 55
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c664890962459304bb2bfd0824350c60
+      internalID: -370388265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_284
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 56
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 678be5e55d832264bbde4d013850c4fb
+      internalID: -1881035385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_285
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 57
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37600bbbb9ea652409b6e723ceaf59f0
+      internalID: -1460134992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_286
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 56
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e963263280a3c749b8a7643551097e1
+      internalID: -7455254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_287
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 57
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e03e006e43b99346b9d4510aced1cdb
+      internalID: 1231606174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_288
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 33
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb9eb2c6999d2194aa915d93d1b9fdf7
+      internalID: -2116189086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_289
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 31
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a5f4aaf46e05724aa690fa0284b7232
+      internalID: -1179479315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_290
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 31
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0f6f7910505f1d4cb89b0e2a7140b59
+      internalID: 1834835044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_291
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 31
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cb21dfc170d3f2418f9521856f77aff
+      internalID: -183736884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_292
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 31
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a41cdd50edffbf244bdaf57c0044a1e8
+      internalID: -1881990920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_293
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 31
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa8b3066273299a438575979e2ecbdf0
+      internalID: -2132977304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_294
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 31
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b935ec22d0d9bd54d9d0fe52c1cec16a
+      internalID: 192580567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_295
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 31
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d602d041f9bd30b45b472b8de9b7672a
+      internalID: -2082059471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_296
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 31
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a33f13fa89ca31478e6cd8b18047d93
+      internalID: -1138627433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_297
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 31
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daf547448f035604bac4199d25f7a62f
+      internalID: -529690740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_298
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 31
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 641735b63fa98c2488a227a92e8f9ba4
+      internalID: -388284545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_299
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 31
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4089b21c9937c04ba16f3ac5619739f
+      internalID: -2065848468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_300
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 31
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cda6285148c2bda42b5393b349a31f9f
+      internalID: 568364390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_301
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 31
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e210d7f044d4b64c917f7a05228e8df
+      internalID: -1597713879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_302
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 31
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 079c841448e63334ab00bd2aa2da3484
+      internalID: 1855686572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_303
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 31
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49780ee7bf7ed52409198e9cf8adfcd0
+      internalID: -562940664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_304
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 8
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3acf6a7ddd5443240be4a36a40425432
+      internalID: 1639306622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head-Body-Leg_305
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 8
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f9f57ab99e4cbe4c8abb51d8e8e5ede
+      internalID: 1908643863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Head-Body-Leg_0: -1435541493
+      Head-Body-Leg_1: -1764398319
+      Head-Body-Leg_10: 1367919387
+      Head-Body-Leg_100: 719971249
+      Head-Body-Leg_101: 297330557
+      Head-Body-Leg_102: -2077403989
+      Head-Body-Leg_103: 21641849
+      Head-Body-Leg_104: -1586500639
+      Head-Body-Leg_105: 1548303653
+      Head-Body-Leg_106: -331315788
+      Head-Body-Leg_107: -997013569
+      Head-Body-Leg_108: 922628368
+      Head-Body-Leg_109: 1389616581
+      Head-Body-Leg_11: -1412071113
+      Head-Body-Leg_110: 674172291
+      Head-Body-Leg_111: 2092535924
+      Head-Body-Leg_112: -968101534
+      Head-Body-Leg_113: 1032254047
+      Head-Body-Leg_114: -1835782512
+      Head-Body-Leg_115: 438866488
+      Head-Body-Leg_116: -2014084976
+      Head-Body-Leg_117: 2119664047
+      Head-Body-Leg_118: 1315346617
+      Head-Body-Leg_119: -1736489555
+      Head-Body-Leg_12: 723647379
+      Head-Body-Leg_120: 1935619560
+      Head-Body-Leg_121: -539061032
+      Head-Body-Leg_122: -904975419
+      Head-Body-Leg_123: -2023421766
+      Head-Body-Leg_124: -1836021900
+      Head-Body-Leg_125: -687957321
+      Head-Body-Leg_126: 509686045
+      Head-Body-Leg_127: -806480804
+      Head-Body-Leg_128: -1297862472
+      Head-Body-Leg_129: 385052207
+      Head-Body-Leg_13: -1074909361
+      Head-Body-Leg_130: -151993235
+      Head-Body-Leg_131: 298109179
+      Head-Body-Leg_132: -1626689345
+      Head-Body-Leg_133: -1003802185
+      Head-Body-Leg_134: -916340020
+      Head-Body-Leg_135: 2037213395
+      Head-Body-Leg_136: 1921958830
+      Head-Body-Leg_137: 1668253249
+      Head-Body-Leg_138: -594780616
+      Head-Body-Leg_139: -809334937
+      Head-Body-Leg_14: -746289010
+      Head-Body-Leg_140: 1485278774
+      Head-Body-Leg_141: 624561484
+      Head-Body-Leg_142: 869999100
+      Head-Body-Leg_143: -506136236
+      Head-Body-Leg_144: 63100535
+      Head-Body-Leg_145: 927499529
+      Head-Body-Leg_146: 1531290625
+      Head-Body-Leg_147: -1790112024
+      Head-Body-Leg_148: -611840976
+      Head-Body-Leg_149: 289997380
+      Head-Body-Leg_15: -953639243
+      Head-Body-Leg_150: -1624309495
+      Head-Body-Leg_151: -553176938
+      Head-Body-Leg_152: -800640778
+      Head-Body-Leg_153: 1399972901
+      Head-Body-Leg_154: 119163735
+      Head-Body-Leg_155: 1492823700
+      Head-Body-Leg_156: 388060946
+      Head-Body-Leg_157: 185416244
+      Head-Body-Leg_158: -1251387346
+      Head-Body-Leg_159: -209106711
+      Head-Body-Leg_16: -1171630327
+      Head-Body-Leg_160: -1747416403
+      Head-Body-Leg_161: -2087100499
+      Head-Body-Leg_162: -419275218
+      Head-Body-Leg_163: -1341394739
+      Head-Body-Leg_164: -891307125
+      Head-Body-Leg_165: 1705195049
+      Head-Body-Leg_166: 2099348354
+      Head-Body-Leg_167: 722832288
+      Head-Body-Leg_168: 1903994836
+      Head-Body-Leg_169: -1488614915
+      Head-Body-Leg_17: -284217366
+      Head-Body-Leg_170: 117231356
+      Head-Body-Leg_171: 2059140758
+      Head-Body-Leg_172: -644909135
+      Head-Body-Leg_173: -2053974413
+      Head-Body-Leg_174: -192481050
+      Head-Body-Leg_175: -2072466346
+      Head-Body-Leg_176: -1739634934
+      Head-Body-Leg_177: 159826467
+      Head-Body-Leg_178: 897358683
+      Head-Body-Leg_179: 299950639
+      Head-Body-Leg_18: -628769318
+      Head-Body-Leg_180: -1379601621
+      Head-Body-Leg_181: -1472034365
+      Head-Body-Leg_182: -1832128465
+      Head-Body-Leg_183: 1868702617
+      Head-Body-Leg_184: -437160576
+      Head-Body-Leg_185: 599652090
+      Head-Body-Leg_186: 714155135
+      Head-Body-Leg_187: -576971309
+      Head-Body-Leg_188: -129452032
+      Head-Body-Leg_189: 858433931
+      Head-Body-Leg_19: 1886056285
+      Head-Body-Leg_190: 847829162
+      Head-Body-Leg_191: 1754999007
+      Head-Body-Leg_192: -702070357
+      Head-Body-Leg_193: 1486917062
+      Head-Body-Leg_194: -1700235612
+      Head-Body-Leg_195: -1295746434
+      Head-Body-Leg_196: -1008180672
+      Head-Body-Leg_197: 46504631
+      Head-Body-Leg_198: -972541211
+      Head-Body-Leg_199: 1882577242
+      Head-Body-Leg_2: -1319743035
+      Head-Body-Leg_20: -815227430
+      Head-Body-Leg_200: -55422620
+      Head-Body-Leg_201: -443099669
+      Head-Body-Leg_202: -1637441687
+      Head-Body-Leg_203: -769805562
+      Head-Body-Leg_204: -1360937706
+      Head-Body-Leg_205: 911213065
+      Head-Body-Leg_206: -1429808861
+      Head-Body-Leg_207: 1159080914
+      Head-Body-Leg_208: 1614878417
+      Head-Body-Leg_209: 116991758
+      Head-Body-Leg_21: -953692488
+      Head-Body-Leg_210: -873823692
+      Head-Body-Leg_211: -1906176131
+      Head-Body-Leg_212: -1844455394
+      Head-Body-Leg_213: -979787927
+      Head-Body-Leg_214: -1703152316
+      Head-Body-Leg_215: 560303338
+      Head-Body-Leg_216: -705652866
+      Head-Body-Leg_217: 311036152
+      Head-Body-Leg_218: -1697756175
+      Head-Body-Leg_219: 325800968
+      Head-Body-Leg_22: -1807954754
+      Head-Body-Leg_220: 180398249
+      Head-Body-Leg_221: -1468134085
+      Head-Body-Leg_222: 245512287
+      Head-Body-Leg_223: 331823060
+      Head-Body-Leg_224: 1000288233
+      Head-Body-Leg_225: 1217822197
+      Head-Body-Leg_226: -1147076037
+      Head-Body-Leg_227: -939461663
+      Head-Body-Leg_228: -2092279136
+      Head-Body-Leg_229: -488118334
+      Head-Body-Leg_23: -907035730
+      Head-Body-Leg_230: 1275620566
+      Head-Body-Leg_231: -1943621308
+      Head-Body-Leg_232: 858710417
+      Head-Body-Leg_233: -1490948190
+      Head-Body-Leg_234: -1245662071
+      Head-Body-Leg_235: 1237938193
+      Head-Body-Leg_236: 118987481
+      Head-Body-Leg_237: -352092105
+      Head-Body-Leg_238: 352604591
+      Head-Body-Leg_239: 1121806962
+      Head-Body-Leg_24: 662515613
+      Head-Body-Leg_240: -1427086649
+      Head-Body-Leg_241: -1804570733
+      Head-Body-Leg_242: -1196213343
+      Head-Body-Leg_243: 1226829525
+      Head-Body-Leg_244: 226410415
+      Head-Body-Leg_245: -2081102708
+      Head-Body-Leg_246: 1736953254
+      Head-Body-Leg_247: -568011015
+      Head-Body-Leg_248: -953565600
+      Head-Body-Leg_249: 559435983
+      Head-Body-Leg_25: 561736797
+      Head-Body-Leg_250: -775410545
+      Head-Body-Leg_251: -70717159
+      Head-Body-Leg_252: -1346056198
+      Head-Body-Leg_253: 988133182
+      Head-Body-Leg_254: 565788588
+      Head-Body-Leg_255: -1382278808
+      Head-Body-Leg_256: -1776563829
+      Head-Body-Leg_257: 386447459
+      Head-Body-Leg_258: 205876057
+      Head-Body-Leg_259: 993380648
+      Head-Body-Leg_26: 756559180
+      Head-Body-Leg_260: -1302107283
+      Head-Body-Leg_261: 1607828869
+      Head-Body-Leg_262: -475921337
+      Head-Body-Leg_263: 328122853
+      Head-Body-Leg_264: -1225947556
+      Head-Body-Leg_265: -1010318755
+      Head-Body-Leg_266: -493716355
+      Head-Body-Leg_267: -968869427
+      Head-Body-Leg_268: 1057016739
+      Head-Body-Leg_269: 709604189
+      Head-Body-Leg_27: 1347896960
+      Head-Body-Leg_270: -596726025
+      Head-Body-Leg_271: 1088554358
+      Head-Body-Leg_272: -1486906941
+      Head-Body-Leg_273: 1940902270
+      Head-Body-Leg_274: -1166184078
+      Head-Body-Leg_275: -581690245
+      Head-Body-Leg_276: 1160064554
+      Head-Body-Leg_277: -1140832313
+      Head-Body-Leg_278: -1482267192
+      Head-Body-Leg_279: 19536337
+      Head-Body-Leg_28: 460595511
+      Head-Body-Leg_280: -552301143
+      Head-Body-Leg_281: -1917359950
+      Head-Body-Leg_282: 1601863511
+      Head-Body-Leg_283: -370388265
+      Head-Body-Leg_284: -1881035385
+      Head-Body-Leg_285: -1460134992
+      Head-Body-Leg_286: -7455254
+      Head-Body-Leg_287: 1231606174
+      Head-Body-Leg_288: -2116189086
+      Head-Body-Leg_289: -1179479315
+      Head-Body-Leg_29: 1494206355
+      Head-Body-Leg_290: 1834835044
+      Head-Body-Leg_291: -183736884
+      Head-Body-Leg_292: -1881990920
+      Head-Body-Leg_293: -2132977304
+      Head-Body-Leg_294: 192580567
+      Head-Body-Leg_295: -2082059471
+      Head-Body-Leg_296: -1138627433
+      Head-Body-Leg_297: -529690740
+      Head-Body-Leg_298: -388284545
+      Head-Body-Leg_299: -2065848468
+      Head-Body-Leg_3: 1273515412
+      Head-Body-Leg_30: -1767245426
+      Head-Body-Leg_300: 568364390
+      Head-Body-Leg_301: -1597713879
+      Head-Body-Leg_302: 1855686572
+      Head-Body-Leg_303: -562940664
+      Head-Body-Leg_304: 1639306622
+      Head-Body-Leg_305: 1908643863
+      Head-Body-Leg_31: -2102146526
+      Head-Body-Leg_32: -846445721
+      Head-Body-Leg_33: 1264010181
+      Head-Body-Leg_34: 1529732215
+      Head-Body-Leg_35: 1804083295
+      Head-Body-Leg_36: -955811688
+      Head-Body-Leg_37: -21809294
+      Head-Body-Leg_38: 1840810574
+      Head-Body-Leg_39: 337146826
+      Head-Body-Leg_4: 556975630
+      Head-Body-Leg_40: 173299260
+      Head-Body-Leg_41: 564410720
+      Head-Body-Leg_42: -1882145693
+      Head-Body-Leg_43: 1735109871
+      Head-Body-Leg_44: 606236542
+      Head-Body-Leg_45: -1103694987
+      Head-Body-Leg_46: -485061925
+      Head-Body-Leg_47: -667267241
+      Head-Body-Leg_48: -1462312572
+      Head-Body-Leg_49: -286588109
+      Head-Body-Leg_5: 1420912993
+      Head-Body-Leg_50: 53007543
+      Head-Body-Leg_51: -938920693
+      Head-Body-Leg_52: 262921055
+      Head-Body-Leg_53: 209385830
+      Head-Body-Leg_54: -119334439
+      Head-Body-Leg_55: 809009048
+      Head-Body-Leg_56: -1825911595
+      Head-Body-Leg_57: 606803151
+      Head-Body-Leg_58: -1609971334
+      Head-Body-Leg_59: -336327087
+      Head-Body-Leg_6: -721967358
+      Head-Body-Leg_60: 922565052
+      Head-Body-Leg_61: 1273640427
+      Head-Body-Leg_62: -183729627
+      Head-Body-Leg_63: -432714652
+      Head-Body-Leg_64: -806701976
+      Head-Body-Leg_65: 469964998
+      Head-Body-Leg_66: 563802098
+      Head-Body-Leg_67: 992199195
+      Head-Body-Leg_68: 1014609469
+      Head-Body-Leg_69: 172519568
+      Head-Body-Leg_7: 629918547
+      Head-Body-Leg_70: 2072748615
+      Head-Body-Leg_71: 73058887
+      Head-Body-Leg_72: -1748208340
+      Head-Body-Leg_73: -1255803633
+      Head-Body-Leg_74: 275301165
+      Head-Body-Leg_75: -181104926
+      Head-Body-Leg_76: -1457616459
+      Head-Body-Leg_77: 1085353260
+      Head-Body-Leg_78: 250679997
+      Head-Body-Leg_79: 1913424862
+      Head-Body-Leg_8: 2134322047
+      Head-Body-Leg_80: -530849230
+      Head-Body-Leg_81: -313659641
+      Head-Body-Leg_82: -1948643771
+      Head-Body-Leg_83: 636654275
+      Head-Body-Leg_84: 238892150
+      Head-Body-Leg_85: -895515191
+      Head-Body-Leg_86: -1797948580
+      Head-Body-Leg_87: 2037017092
+      Head-Body-Leg_88: 1871239621
+      Head-Body-Leg_89: 564429201
+      Head-Body-Leg_9: 1229937224
+      Head-Body-Leg_90: 768996650
+      Head-Body-Leg_91: 47582026
+      Head-Body-Leg_92: -1369517799
+      Head-Body-Leg_93: -1973297914
+      Head-Body-Leg_94: 953440169
+      Head-Body-Leg_95: 1018281839
+      Head-Body-Leg_96: -1219095874
+      Head-Body-Leg_97: -1630955793
+      Head-Body-Leg_98: -1362380714
+      Head-Body-Leg_99: -315389871
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
